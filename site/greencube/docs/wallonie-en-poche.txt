@@ -1,0 +1,6 @@
+Emails : pla@letsgocity.be | phe@letsgocity.be
+Données :
+	- Nom
+	- Lien
+	- Image & Description
+	- Mot(s) clé(s)
