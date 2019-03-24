@@ -17,9 +17,6 @@ def getSensor(verbose=False):
     data = {'humidity': hum, 'temperature': temp}
     #result = json.dumps(data)
     if verbose:
-        print(result)
+        print(data)
     #return result
     return data
-
-
-#getSensor()
